@@ -5,6 +5,8 @@
 ![made-with-Python](https://img.shields.io/badge/Python-blue?&logo=python&logoColor=yellow&label=Built%20with&style=flat&labelColor=black)
 [![License](https://img.shields.io/github/license/seraph776/seraph776?logo=github&color=green&labelColor=black)](https://github.com/seraph776/quotes-to-scrape.com/blob/main/contributing.md) [![Contribute](https://img.shields.io/badge/Contribute-black?&logo=github&logoColor=black&label=&flat&labelColor=yellow)](https://github.com/seraph776/quotes-to-scrape.com/blob/main/contributing.md) [![Report Bugs](https://img.shields.io/badge/Report%20Bugz-black?&logo=github&logoColor=black&label=&flat&labelColor=red)](https://github.com/seraph776/quotes-to-scrape.com/issues/new/choose)
 
+<img src="https://user-images.githubusercontent.com/72005563/203438743-d6c04cf5-150f-4cd8-b436-1660f8c0f755.png" width="125">  
+  
 _Show your support and give this repo a_ ⭐
 
 
