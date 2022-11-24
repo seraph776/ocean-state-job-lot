@@ -1,8 +1,8 @@
 ## Initial checklist
-- [ ] I read the [support docs](https://github.com/seraph776/QuickStartTemplate/blob/main/SUPPORT.md) *
-- [ ] I read the [contributing guide](https://github.com/seraph776/QuickStartTemplate/blob/main/CONTRIBUTING.md) *
-- [ ] I agree to follow the [code of conduct](https://github.com/seraph776/QuickStartTemplate/blob/main/CODE-OF-CONDUCT.md) *
-- [ ] I searched [issues](https://github.com/seraph776/QuickStartTemplate/issues) and couldn’t find anything (or linked relevant results below) *
+- [ ] I read the [support docs](https://github.com/seraph776/ocean-state-job-lot-scraper/blob/main/SUPPORT.md) *
+- [ ] I read the [contributing guide](https://github.com/seraph776/ocean-state-job-lot-scraper/blob/main/CONTRIBUTING.md) *
+- [ ] I agree to follow the [code of conduct](https://github.com/seraph776/ocean-state-job-lot-scraper/blob/main/CODE-OF-CONDUCT.md) *
+- [ ] I searched [issues](https://github.com/seraph776/ocean-state-job-lot-scraper/issues) and couldn’t find anything (or linked relevant results below) *
 
 
 ## What issue number does this close
